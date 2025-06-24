@@ -1,0 +1,2 @@
+# Cosmic-Motivator-Get-Space-Powered-Inspiration-in-Your-Terminal
+Feeling low on motivation? Let the universe speak! This fun Python script connects to the Cosmic Grid, picks a random planet, channels a powerful galactic vibe, and blasts you with a motivational boost straight from the stars. Perfect for developers who need a daily dose of space-fueled encouragement. 🌠 Run it. Feel it. Launch your dreams. 💫
