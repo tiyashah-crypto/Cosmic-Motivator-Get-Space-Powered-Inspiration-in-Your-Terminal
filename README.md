@@ -63,4 +63,7 @@ print(f"Transmitting from {planet}: Channeling {vibe}... {boost}")
 Because even coders need some **extraterrestrial encouragement**.
 Start your day the **galactic way**!
 
+## CodeBase Tutorial 
+https://code2tutorial.com/tutorial/1b7b294b-d785-4a9d-872d-0fe9b03c3e19/index.md
+
 
